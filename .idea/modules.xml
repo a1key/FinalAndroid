@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/foodswipe.iml" filepath="$PROJECT_DIR$/foodswipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cn1libs/foodswipe-cn1libs.iml" filepath="$PROJECT_DIR$/cn1libs/foodswipe-cn1libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/foodswipe-common.iml" filepath="$PROJECT_DIR$/common/foodswipe-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cn1libs/CodeRAD/grub-CodeRAD.iml" filepath="$PROJECT_DIR$/cn1libs/CodeRAD/grub-CodeRAD.iml" />
+    </modules>
+  </component>
+</project>
